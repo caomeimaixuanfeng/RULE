@@ -1,4 +1,4 @@
-// 2025-11-01 19:23
+// 2025-11-07 16:32
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -223,7 +223,6 @@ DOMAIN,bdapi-ads.realmemobile.com
 DOMAIN,bdapi-in-ads.realmemobile.com
 DOMAIN,bdapi.ads.oppomobile.com
 DOMAIN,bdcdncnc.inter.71edge.com
-DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beacon.qq.com
 DOMAIN,beaconcdn.qq.com
 DOMAIN,beacons.gvt2.com
@@ -255,7 +254,6 @@ DOMAIN,ccc-x.jd.com
 DOMAIN,ccs.umeng.com
 DOMAIN,cctv.adsunion.com
 DOMAIN,cdn-ad.wtzw.com
-DOMAIN,cdn-ads.oss-cn-shanghai.aliyuncs.com
 DOMAIN,cdn-f.adsmoloco.com
 DOMAIN,cdn-plugin-sync-upgrade-juui.hismarttv.com
 DOMAIN,cdn.aiclk.com
@@ -516,7 +514,6 @@ DOMAIN,moatads.com
 DOMAIN,mobads-logs.baidu.com
 DOMAIN,mobads-pre-config.cdn.bcebos.com
 DOMAIN,mobads.baidu.com
-DOMAIN,mobaliyun.res.mgtv.com
 DOMAIN,mobile.da.mgtv.com
 DOMAIN,mobilead.kuwo.cn
 DOMAIN,mobilelog.upqzfile.com
@@ -850,7 +847,6 @@ DOMAIN-SUFFIX,ad.gameley.com
 DOMAIN-SUFFIX,adintl.cn
 DOMAIN-SUFFIX,adx.adwangmai.com
 DOMAIN-SUFFIX,data.hicloud.com
-DOMAIN-SUFFIX,log.aliyuncs.com
 DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,vlion.cn
 DOMAIN-SUFFIX,yfanads.com
