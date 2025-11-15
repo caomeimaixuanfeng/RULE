@@ -1,4 +1,4 @@
-// 2025-11-07 16:32
+// 2025-11-15 20:32
 
 DOMAIN,1500020991.vodplayer.wxamedia.com
 DOMAIN,1500022744.vodplayer.wxamedia.com
@@ -261,7 +261,6 @@ DOMAIN,cdn.chinaliftoff-creatives.io
 DOMAIN,cdn.hpplay.com.cn
 DOMAIN,cdn.iads.unitychina.cn
 DOMAIN,cdn.liftoff-creatives.io
-DOMAIN,cdn.ynuf.aliapp.org
 DOMAIN,cfg.imtt.qq.com
 DOMAIN,chat1.jd.com
 DOMAIN,chiq-cloud.com
@@ -851,8 +850,3 @@ DOMAIN-SUFFIX,ubixioe.com
 DOMAIN-SUFFIX,vlion.cn
 DOMAIN-SUFFIX,yfanads.com
 DOMAIN-SUFFIX,zhangyuyidong.cn
-DOMAIN-KEYWORD,-ad.sm.cn
-DOMAIN-KEYWORD,-ad.video.yximgs.com
-DOMAIN-KEYWORD,-ad.wtzw.com
-DOMAIN-KEYWORD,-be-pack-sign.pglstatp-toutiao.com
-DOMAIN-KEYWORD,-normal.zijieapi.com
