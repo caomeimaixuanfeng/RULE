@@ -1,0 +1,7 @@
+#!name=Hide-VPN-icon
+#!desc=Hide-VPN-icon
+#!system=ios
+#!updatetime=2023-11-07 15:52
+
+[General]
+hide-vpn-icon = true
