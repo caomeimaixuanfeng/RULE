@@ -1,4 +1,4 @@
-// 2025-04-10 23:28
+// 2025-11-19 23:25
 
 DOMAIN,a0.app.xiaomi.com
 DOMAIN,aaid.umeng.com
@@ -211,7 +211,6 @@ DOMAIN,bdapi-ads.realmemobile.com
 DOMAIN,bdapi-in-ads.realmemobile.com
 DOMAIN,bdapi.ads.oppomobile.com
 DOMAIN,bdcdncnc.inter.71edge.com
-DOMAIN,beacon-api.aliyuncs.com
 DOMAIN,beacon.qq.com
 DOMAIN,beaconcdn.qq.com
 DOMAIN,beacons.gvt2.com
@@ -323,7 +322,6 @@ DOMAIN,fancyapi.com
 DOMAIN,fclog.baidu.com
 DOMAIN,feed-image.baidu.com
 DOMAIN,file.daihuo.qq.com
-DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,flurry.com
 DOMAIN,frontend-perf-service.e.kuaishou.com
 DOMAIN,fundingchoicesmessages.google.com
@@ -527,7 +525,6 @@ DOMAIN,nsclick.baidu.com
 DOMAIN,o-sdk.mediation.unity3d.com
 DOMAIN,o2o.api.xiaomi.com
 DOMAIN,offerwall.yandex.net
-DOMAIN,ogads-pa.clients6.google.com
 DOMAIN,omgmta.play.aiseet.atianqi.com
 DOMAIN,open.e.kuaishou.cn
 DOMAIN,open.e.kuaishou.com
